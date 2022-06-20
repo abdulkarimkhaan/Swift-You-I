@@ -1,0 +1,6 @@
+framework module Pods_Swift_You_I_Swift_You_IUITests {
+  umbrella header "Pods-Swift-You-I-Swift-You-IUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
